@@ -5,7 +5,7 @@ I'm Front-end developer from Ukraine
 ------------------------------------
 
 * ✉️  You can contact me at [ovechko.vita@gmail.com](mailto:ovechko.vita@gmail.com)
-* 🧠  I'm learning Node.js, MongoDB
+* 🧠  Now I'm learning Node.js, MongoDB
 
 ### Skills
 
